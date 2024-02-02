@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects**
 
-- 👨‍💻 All of my projects are available at [https://bio.link/pavan_jangid](https://bio.link/pavan_jangid)
+- 👨‍💻 All of my projects are available at [https://bio.link/chirag_malhotra](https://bio.link/chirag_malhotra)
 
-- 💬 Ask me about **SQL, Excel, Power BI**
+- 💬 Ask me about **Python, SQL, Excel, Power BI**
 
 - 📫 How to reach me **chiragmalhotra2018@gmail.com**
 
