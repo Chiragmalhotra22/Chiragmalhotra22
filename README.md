@@ -13,19 +13,19 @@
 
 - 💬 Ask me about **SQL, Excel, Power BI**
 
-- 📫 How to reach me **Pavan5.jan@gmail.com**
+- 📫 How to reach me **chiragmalhotra2018@gmail.com**
 
-- 📄 Know about my experiences [https://aii01-my.sharepoint.com/:b:/g/personal/pavanjangid_bda23_aidtm_ac_in/EYNjvEoYiJNAoQp4yrmMwOYBaA_owSCjI-wMx6KkOYRyvA?e=ZcOxjz](https://aii01-my.sharepoint.com/:b:/g/personal/pavanjangid_bda23_aidtm_ac_in/EYNjvEoYiJNAoQp4yrmMwOYBaA_owSCjI-wMx6KkOYRyvA?e=ZcOxjz)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hQHpLc4f_1BGTnzAHsOv9Gc2ZFGMG8Ck/view?usp=drive_link](https://drive.google.com/file/d/1hQHpLc4f_1BGTnzAHsOv9Gc2ZFGMG8Ck/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pavan-jangid-big-data-analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan-jangid-big-data-analyst" height="30" width="40" /></a>
-<a href="https://instagram.com/iampavan___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iampavan___" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chirag-malhotra-43685418a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chirag-malhotra-43685418a" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chirag_malhotra22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chirag_malhotra22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavan-jangid-here&show_icons=true&locale=en&layout=compact" alt="pavan-jangid-here" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chiragmalhotra22&show_icons=true&locale=en&layout=compact" alt="Chiragmalhotra22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavan-jangid-here&show_icons=true&locale=en" alt="pavan-jangid-here" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiragmalhotra22&show_icons=true&locale=en" alt="Chiragmalhotra22" /></p>
